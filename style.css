@@ -16,6 +16,6 @@ img {
     width: 300px;
 }
 
-li {
+ul > li {
     list-style-type: none;
 }
